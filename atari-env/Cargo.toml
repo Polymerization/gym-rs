@@ -19,10 +19,10 @@ gym-core = { version = "0.1.0", path = "../gym-core" }
 c_str_macro = "1.0.2"
 image = "0.23.14"
 minifb = "0.19.2"
-pixels = "0.2.0"
+pixels = "0.17"
 strum = { version = "0.20.0", features = ["derive"] }
 viuer = "0.4.0"
-wgpu = "0.7.0"
+wgpu = "30"
 winit = "0.24.0"
 winit_input_helper = "0.9.0"
 ndarray = { version = "0.15.1", features = ["rayon"] }
